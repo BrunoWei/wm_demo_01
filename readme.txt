@@ -5,4 +5,4 @@ Hello, git! Now i understand how stage works!
 Git track changes.
 My stupid boss still prefers SVN.Git is very awesome!
 Haha...now i know how to create and switch to a new branch!Let me try this again! It's really amazing.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
