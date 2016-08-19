@@ -7,3 +7,4 @@ My stupid boss still prefers SVN.Git is very awesome!
 Haha...now i know how to create and switch to a new branch!Let me try this again! It's really amazing.
 Creating a new branch is quick and simple. Yes, that's true.
 Added by BrunoWei. Added a message in /d/project/wm_demo_01.
+Add new message in /d/projects/wm_demo_01.
